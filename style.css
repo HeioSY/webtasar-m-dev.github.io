@@ -1,0 +1,61 @@
+.body{
+font-family: 'Raleway', sans-serif;
+}
+/* menü */
+.navbar {
+    height: 120px;
+    background-color: antiquewhite;
+}
+.container-fluid{
+    height: 120px;
+    background-color: antiquewhite;
+}
+.navbar-brand{
+    font-size: 35px;
+}
+.collapse{
+    font-size: 20px;
+}
+/* menü */
+/* ürünler */
+
+.card {
+    width: 300px;
+    margin: auto;  
+}
+.cards{
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 50px;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+.card>img:hover{
+    opacity: 0.6;
+}
+/* ürünler */
+/* galeri */
+.container1{
+    text-align: center;   
+    padding-left: 300px;
+    padding-right: 300px; 
+    padding-top: 50px;
+}
+/* galeri */
+/* iletişim */
+.container2{
+    padding-top: 50px;
+    padding-left: 300px;
+    padding-right: 300px; 
+    background-color: #f2f2f2;
+}
+.col-12 {
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+.container2 h2{
+    text-align: center;
+}
+/* iletişim */
+
+
